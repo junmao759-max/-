@@ -1,0 +1,10 @@
+1. businessman
+2. commercial
+3. commerce
+4. enterprise
+5. entrepreneurial
+6. salesman
+7. sale
+8. trade
+9. transaction
+10. bargain
