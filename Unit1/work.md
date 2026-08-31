@@ -1,0 +1,10 @@
+1. coworker
+2. workforce
+3. workplace
+4. workout
+5. patchwork
+6. labor
+7. laborer
+8. career
+9. vocational
+10. strike

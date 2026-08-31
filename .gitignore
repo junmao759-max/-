@@ -1,0 +1,9 @@
+# Obsidian 本地工作区状态（每次使用都会变动，不建议纳入版本控制）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 临时文件
+.DS_Store
+Thumbs.db
+*.tmp

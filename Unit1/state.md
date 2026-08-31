@@ -1,0 +1,10 @@
+1. statements
+2. restate
+3. overstate
+4. estate
+5. status
+6. statute
+7. stake
+8. administer
+9. administration
+10. administrative
