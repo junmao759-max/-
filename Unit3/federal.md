@@ -1,7 +1,7 @@
 1. democratic
 2. democracy
 3. democratise
-4. democract
+4. democrat
 5. conservative
 6. republic
 7. republican
