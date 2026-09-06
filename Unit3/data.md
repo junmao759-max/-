@@ -1,0 +1,10 @@
+1. database
+2. analyze
+3. analysis
+4. analyst
+5. analytic
+6. statistical
+7. statistically
+8. statistician
+9. statistics
+10. static
