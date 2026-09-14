@@ -1,0 +1,10 @@
+1. unlikely
+2. possible
+3. impossible
+4. possibly
+5. possibility
+6. probably
+7. probability
+8. perhaps
+9. potential
+10. potentially
