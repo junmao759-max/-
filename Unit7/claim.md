@@ -1,0 +1,10 @@
+1. acclaim
+2. claimant
+3. declare
+4. assert
+5. assertion
+6. allege
+7. announce
+8. announcement
+9. contend
+10. compliment

@@ -1,6 +1,6 @@
 1. formal
 2. formally
-3. formation 编队
+3. formation 
 4. format
 5. formula
 6. formulate
