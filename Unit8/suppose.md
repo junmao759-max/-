@@ -1,0 +1,14 @@
+1. supposedly
+2. expose
+3. exposure
+4. impose
+5. oppose
+6. opposite
+7. opposition
+8. opponent
+9. pose
+10. position
+11. hypothesis
+12. premise
+13. presumably
+14. contrary
