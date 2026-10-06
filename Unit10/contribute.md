@@ -1,0 +1,10 @@
+1. contribution
+2. attribute
+3. distribute
+4. distribution
+5. redistribution
+6. designate
+7. allocate
+8. allocation
+9. devote
+10. dedicate

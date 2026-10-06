@@ -5,3 +5,6 @@
 5. absence
 6. represent
 7. representation
+8. embody
+9. embodiment
+10. behalf
